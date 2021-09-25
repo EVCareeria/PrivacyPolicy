@@ -1,5 +1,5 @@
 import Privacy from "./components/Privacy";
-import './App.css'
+import "./App.css"
 
 function App() {
   return (
