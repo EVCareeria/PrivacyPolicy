@@ -53,7 +53,8 @@ const Privacy = () => {
             <p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
             <ul>
                 <li>Usage Data</li>
-                <h2>Data collected by the app is not used nor saved outside of user's device by us </h2>
+                <h2>Data collected by the app is not used nor saved outside of user's device by us, All functions within this version of the app are done locally, with no cloud functions nor using or saving customers information in any shape or form by us, or our app. </h2>
+                <h3>If this policy changes in the future, a new version of the app will be released - no such system will be implemented by updating this version.</h3>
             </ul>
             <h3>Usage Data</h3>
             <p>Usage Data is collected automatically when using the Service.</p>
